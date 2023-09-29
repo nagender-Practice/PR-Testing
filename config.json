@@ -1,8 +1,10 @@
 {
-	"build_dir":"desktop/build-catalog",
+	"build_dir":"desktop/build",
 	"name":"sample",
 	"repositories":[],
 	"pc-ip":"3244234",
 	"password":"temp"
+	"test-controllers":[{"req-type":"get","url":"google.com","params":[],"flag":1}]
+	
 
-}
+
